@@ -1,0 +1,32 @@
+languageCode = "en-us"
+title = "Justin Domingus"
+baseurl = "https://justindomingus.com/"
+theme = "aerial"
+
+[params]
+  name = "Justin Domingus"
+  about = "Seattle, WA"
+  copyright = "2017"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = "disable"
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "LinkedIn"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/justindomingus"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/domingusj"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/justindomingus"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:justin@justindomingus.com"
