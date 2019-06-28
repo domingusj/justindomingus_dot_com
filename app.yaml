@@ -2,5 +2,5 @@ runtime: go112
 
 handlers:
 - url: /.*
-  script: auto
+  static_dir: public
   secure: always
