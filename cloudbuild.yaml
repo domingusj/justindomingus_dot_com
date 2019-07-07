@@ -1,5 +1,12 @@
 steps:
 
+- name: gcr.io/cloud-builders/git
+  entrypoint: bash
+  args:
+    - -c
+    - |
+      git submodule update --init
+
 - name: gcr.io/cloud-builders/docker
   entrypoint: bash
   args:
