@@ -4,7 +4,7 @@ steps:
     args:
       - -c
       - |
-        git submodule update --init
+        git clone https://github.com/domingusj/bootstrap-bp-hugo-startpage.git themes/bootstrap
 
   - name: gcr.io/cloud-builders/docker
     entrypoint: bash
