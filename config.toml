@@ -1,0 +1,7 @@
+languageCode = "en-us"
+title = "Justin Domingus"
+baseurl = "https://justindomingus.com/"
+theme = "bootstrap"
+
+[params]
+welcomeText = "Justin Domingus"

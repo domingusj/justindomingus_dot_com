@@ -1,0 +1,11 @@
+- group: Links
+  items:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/justindomingus
+      icon: fab fa-linkedin
+    - title: GitHub
+      url: https://github.com/domingusj
+      icon: fab fa-github
+    - title: Cloud Native DevOps with Kubernetes
+      url: https://www.oreilly.com/library/view/cloud-native-devops/9781098116811/
+      icon: fa fa-book
